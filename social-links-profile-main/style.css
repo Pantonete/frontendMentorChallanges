@@ -115,7 +115,7 @@ main{
 .profile_info h1{
     margin-bottom: var(--spacing-100);
 } 
-.profile_info h3{
+.profile_info h2{
     color: var(--green);
     margin: var(--spacing-100) 0px var(--spacing-200) 0px; 
 }

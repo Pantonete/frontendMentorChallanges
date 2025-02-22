@@ -1,5 +1,5 @@
 /* PRE-DEFINED CSS */
-.attribution { font-size: 11px; text-align: center; color: var(--white); margin-top: 50px;}
+.attribution { font-size: 11px; text-align: center; color: var(--white);}
 .attribution a { color: hsl(228, 45%, 44%); }
 
 /* IMPORTING FONTS */
@@ -55,11 +55,13 @@
 
 body{
     width: 100vw;
-    padding: var(--spacing-300) 0px;
+    min-height: 100vh;
+    padding: 100px 0px;
 
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
 
     background-color: var(--grey-900);
 
@@ -101,7 +103,6 @@ main{
     border-radius: 20px;
 }
 .profile_info{
-    /* width: 100%; */
     text-align: center;
     margin: var(--spacing-100) 0px var(--spacing-100) 0px;
 }
@@ -127,7 +128,6 @@ main{
     align-items: center;
     flex-direction: column;
 }
-
 
 .link{
     width: 100%;

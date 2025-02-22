@@ -15,7 +15,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Click here](https://github.com/Pantonete/frontendMentorChallanges/tree/main/qr-code-component-main)
+- Solution URL: [Click here](https://github.com/Pantonete/frontendMentorChallanges/tree/main/blog-preview-card-main)
 - Live Site URL: [Click here](https://pantonete.github.io/frontendMentorChallanges/blog-preview-card-main/)
 
 ## My process
